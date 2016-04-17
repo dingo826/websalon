@@ -1,9 +1,14 @@
 <h1>前端攻略系列</h1>
+<h2>css3动画</h2>
+<h2>javascript设计模式</h2>
+<h2>ES6</h2>
 <h2>jQuery系列</h2>
  .CORS系列
+ .jQuery源码
 <h2>前端模块化系列</h2>
 <h3><a href="">requireJs</a></h3>
 <h2>自动化工具系列</h2>
+bower
 <h3><a href="">glup</a></h3>
 <h2>单元测试系列</h2>
 <h2>前端框架系列</h2>
